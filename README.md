@@ -1,6 +1,7 @@
 # Vitor Junior 👨‍💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-de-barros-74a976ba/)](https://www.linkedin.com/in/vitor-de-barros-74a976ba/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorjunior@poli.ufrj.br)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCS6xlMshlqXpO-NTqNzb7Aw)](https://www.youtube.com/channel/UCS6xlMshlqXpO-NTqNzb7Aw)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-de-barros-74a976ba/)](https://www.linkedin.com/in/vitor-de-barros-74a976ba/)
 
 - 👋 Hi, there! I'm Vitor. 
 - 📚 I am looking forward to learn more about front and back developments in web-based structures.
