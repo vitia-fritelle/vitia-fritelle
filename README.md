@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-de-barros-74a976ba/)](https://www.linkedin.com/in/vitor-de-barros-74a976ba/)
 
 - 👋 Hi, there! I'm Vitor. 
-- 📚 I am looking forward to learn more about front and back developments in web-based structures.
+- 📚 I am looking forward to learn more artificial intelligence
 - 👨‍🎓 I have a good knowledge in Javascript, and Python.
 - 📧 If u send me an e-mail, I will try to answer it as fast as possible! ^^
 - 😆 I like telling jokes... and expect others to laugh xD.
